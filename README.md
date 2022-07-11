@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm an Engineer with +4 years working in different projects using Salesforce Clouds like:
+I'm an Engineer with 10 Salesforce certifications and +4 years experience working in different projects implementing Salesforce Clouds like:
 - Salesforce Sales Cloud
 - Salesforce Service Cloud
 - Salesforce Marketing Cloud
